@@ -7,7 +7,7 @@ Horiseon needs for the Search Engine Optimization to be increased, to the point 
 ## Screenshots
 This is what the finished product should look like.
 
-[Screenshot](#Final_product.png)
+[Screenshot](_final_product.png)
 
 ## Usage
 - If the user were to "click" on the Search Engine Optimization link, the site should drop them to the Search Engine Optimization section of the page.
